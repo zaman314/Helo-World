@@ -1,2 +1,2 @@
 # Helo-World
-just a smaple repository
+A sample repository in branch
